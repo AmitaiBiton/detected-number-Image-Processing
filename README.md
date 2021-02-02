@@ -1,1 +1,1 @@
-#Image Processing -  detect number on mage
+# Image Processing -  detect number on image
