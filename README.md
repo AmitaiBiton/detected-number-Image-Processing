@@ -1,1 +1,1 @@
-# Computer Vision -  detect number on image
+#Image Processing -  detect number on image
