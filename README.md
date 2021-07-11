@@ -1,1 +1,1 @@
-# Image Processing -  detect number on image
+# Image Processing -  detected number on image
